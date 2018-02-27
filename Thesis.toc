@@ -4,40 +4,26 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {chapter}{Contents}{a}{section*.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{Todo list}{c}{section*.2}
+\contentsline {chapter}{\chapternumberline {1}Outlining the objectives}{c}{chapter.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\chapternumberline {1}Outlining the objectives}{1}{chapter.1}
+\contentsline {section}{\numberline {1.1}Learning outcomes}{c}{section.1.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {1.1}Learning outcomes}{1}{section.1.1}
+\contentsline {chapter}{\chapternumberline {2}List of tasks}{e}{chapter.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\chapternumberline {2}List of tasks}{3}{chapter.2}
+\contentsline {section}{\numberline {2.1}Improve hard iron calibration}{e}{section.2.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\chapternumberline {3}Heading on Level\xspace 0 (chapter)}{5}{chapter.3}
+\contentsline {section}{\numberline {2.2}Implement accelerometer driver}{e}{section.2.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {3.1}Heading on Level\xspace 1 (section)}{5}{section.3.1}
+\contentsline {section}{\numberline {2.3}Tilt compensation}{f}{section.2.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {3.1.1}Heading on Level\xspace 2 (subsection)}{5}{subsection.3.1.1}
+\contentsline {section}{\numberline {2.4}Soft iron calibration}{f}{section.2.4}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {3.1.1.1}Heading on Level\xspace 3 (subsubsection)}{6}{subsubsection.3.1.1.1}
+\contentsline {section}{\numberline {2.5}Add gyroscope}{f}{section.2.5}
 \defcounter {refsection}{0}\relax 
-\contentsline {paragraph}{Heading on Level\xspace 4 (paragraph)}{6}{section*.8}
+\contentsline {section}{\numberline {2.6}Dynamic calibration}{f}{section.2.6}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {3.2}Lists}{6}{section.3.2}
+\contentsline {section}{\numberline {2.7}Final test}{f}{section.2.7}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {3.2.1}Example for list\xspace (itemize)}{6}{subsection.3.2.1}
+\contentsline {section}{\numberline {2.8}Write report}{f}{section.2.8}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {3.2.1.1}Example for list\xspace (4*itemize)}{6}{subsubsection.3.2.1.1}
-\defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {3.2.2}Example for list\xspace (enumerate)}{7}{subsection.3.2.2}
-\defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {3.2.2.1}Example for list\xspace (4*enumerate)}{7}{subsubsection.3.2.2.1}
-\defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {3.2.3}Example for list\xspace (description)}{7}{subsection.3.2.3}
-\defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {3.2.3.1}Example for list\xspace (4*description)}{8}{subsubsection.3.2.3.1}
-\defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\chapternumberline {4}Conclusion}{9}{chapter.4}
-\defcounter {refsection}{0}\relax 
-\contentsline {chapter}{Appendices}{11}{section*.9}
-\defcounter {refsection}{0}\relax 
-\contentsline {appendix}{\chapternumberline {A}This is the first appendix}{13}{appendix.A}
+\contentsline {chapter}{\chapternumberline {3}Gantt chart}{g}{chapter.3}
