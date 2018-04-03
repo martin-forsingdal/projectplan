@@ -2,28 +2,24 @@
 \defcounter {refsection}{0}\relax 
 \select@language {english}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{Contents}{a}{section*.1}
+\contentsline {chapter}{Summary}{i}{chapter*.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\chapternumberline {1}Outlining the objectives}{c}{chapter.1}
+\contentsline {chapter}{Preface}{iii}{chapter*.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {1.1}Learning outcomes}{c}{section.1.1}
+\contentsline {chapter}{Acknowledgements}{v}{chapter*.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\chapternumberline {2}List of tasks}{e}{chapter.2}
+\contentsline {chapter}{Contents}{vii}{section*.4}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {2.1}Improve hard iron calibration}{e}{section.2.1}
+\contentsline {chapter}{\chapternumberline {1}Introduction}{1}{chapter.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {2.2}Implement accelerometer driver}{e}{section.2.2}
+\contentsline {chapter}{\chapternumberline {2}Theory}{3}{chapter.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {2.3}Tilt compensation}{f}{section.2.3}
+\contentsline {chapter}{\chapternumberline {3}Method}{5}{chapter.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {2.4}Soft iron calibration}{f}{section.2.4}
+\contentsline {chapter}{\chapternumberline {4}Results}{7}{chapter.4}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {2.5}Add gyroscope}{f}{section.2.5}
+\contentsline {chapter}{\chapternumberline {5}Conclusion}{9}{chapter.5}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {2.6}Dynamic calibration}{f}{section.2.6}
+\contentsline {chapter}{Appendices}{11}{section*.5}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {2.7}Final test}{f}{section.2.7}
-\defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {2.8}Write report}{f}{section.2.8}
-\defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\chapternumberline {3}Gantt chart}{g}{chapter.3}
+\contentsline {appendix}{\chapternumberline {A}This is the first appendix}{13}{appendix.A}
